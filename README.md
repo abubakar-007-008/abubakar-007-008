@@ -1,7 +1,6 @@
 
-![logo]
-(https://github.com/abubakar-007-008/abubakar-007-008/blob/main/Green%20Neon%20Trendy%20Gaming%20Youtube%20Banner.png)
-<h1 align="center">Hi 👋, I'm Abu Bakar</h1>
+![logo](https://github.com/abubakar-007-008/abubakar-007-008/blob/main/Green%20Neon%20Trendy%20Gaming%20Youtube%20Banner.png)
+<h1 align="center">Hi 👋, I'm AbuBakar</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" 
   src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3zwiDU5s4TpYEtWpuZUatf&ust=1733402295404000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNCL8fuQjooDFQAAAAAdAAAAABAE">
