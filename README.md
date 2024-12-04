@@ -2,7 +2,7 @@
 ![logo](https://github.com/abubakar-007-008/abubakar-007-008/blob/main/Green%20Neon%20Trendy%20Gaming%20Youtube%20Banner.png)
 <h1 align="center">Hi 👋, I'm AbuBakar</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3zwiDU5s4TpYEtWpuZUatf&ust=1733402295404000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNCL8fuQjooDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0QZh8wzVUkF_vQpfzmbV-h&ust=1733402911571000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDbv5yTjooDFQAAAAAdAAAAABAJ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abubakar-007-008&label=Profile%20views&color=0e75b6&style=flat" alt="abubakar-007-008" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abubakar-007-008" alt="abubakar-007-008" /></a> </p>
